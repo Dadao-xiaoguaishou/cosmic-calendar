@@ -37,7 +37,7 @@ body
 	0%
 	{
 		background: #fff;
-		filter: blur(2px);
+		filter: blur(0px);
 		box-shadow: 0 0 10px #00b3ff,
 		            0 0 20px #00b3ff,
 		            0 0 40px #00b3ff,
@@ -55,14 +55,14 @@ body
 	25%,75%
 	{
 		background: #111;
-		filter: blur(0px);
+		filter: blur(2px);
 		box-shadow: none;
 
 	}
 	100%
 	{
 		background: #fff;
-		filter: blur(2px);
+		filter: blur(0px);
 		box-shadow: 0 0 10px #00b3ff,
 		            0 0 20px #00b3ff,
 		            0 0 40px #00b3ff,
@@ -96,7 +96,7 @@ body
 	0%
 	{
 		color: #fff;
-		filter: blur(1px);
+		filter: blur(0px);
 		text-shadow: 0 0 10px #00b3ff,
 		             0 0 20px #00b3ff,
 		             0 0 40px #00b3ff,
@@ -114,14 +114,14 @@ body
 	25%,75%
 	{
 		color: #111;
-		filter: blur(0px);
+		filter: blur(2px);
 		text-shadow: none;
 
 	}
 	100%
 	{
 		color: #fff;
-		filter: blur(1px);
+		filter: blur(0px);
 		text-shadow: 0 0 10px #00b3ff,
 		             0 0 20px #00b3ff,
 		             0 0 40px #00b3ff,
@@ -137,3 +137,4 @@ body
 
 	}
 }
+
