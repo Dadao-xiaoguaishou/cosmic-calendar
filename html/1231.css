@@ -24,7 +24,7 @@ body
 	width: 15px;
 	height: 15px;
 	background: #fff;
-	margin: 0 40px;
+	margin: 0 25px;
 	height: calc(15px * var(--i));
 	display: flex;
 	justify-content: center;
@@ -39,6 +39,18 @@ body
 		background: #fff;
 		filter: blur(0px);
 		box-shadow: 0 0 10px #00b3ff,
+		            0 0 20px #00b3ff,
+		            0 0 40px #00b3ff,
+		            0 0 80px #00b3ff,
+		            0 0 120px #00b3ff,
+		            0 0 130px #00b3ff,
+		            0 0 140px #00b3ff,
+		            0 0 150px #00b3ff,
+		            0 0 160px #00b3ff,
+		            0 0 200px #00b3ff,
+		            0 0 300px #00b3ff,
+		            0 0 400px #00b3ff,
+		            0 0 10px #00b3ff,
 		            0 0 20px #00b3ff,
 		            0 0 40px #00b3ff,
 		            0 0 80px #00b3ff,
@@ -76,6 +88,18 @@ body
 		            0 0 200px #00b3ff,
 		            0 0 300px #00b3ff,
 		            0 0 400px #00b3ff,
+		            0 0 10px #00b3ff,
+		            0 0 20px #00b3ff,
+		            0 0 40px #00b3ff,
+		            0 0 80px #00b3ff,
+		            0 0 120px #00b3ff,
+		            0 0 130px #00b3ff,
+		            0 0 140px #00b3ff,
+		            0 0 150px #00b3ff,
+		            0 0 160px #00b3ff,
+		            0 0 200px #00b3ff,
+		            0 0 300px #00b3ff,
+		            0 0 400px #00b3ff,
 
 	}
 } 
@@ -85,7 +109,7 @@ body
 	display: block;
 	font-style: normal;
 	color: #fff;
-	font-size: 17px;
+	font-size: 15px;
 	font-weight: bold;
     transform: translateY(70px);
     animation: animate2 8s linear;
@@ -99,6 +123,18 @@ body
 		color: #fff;
 		filter: blur(1px);
 		text-shadow: 0 0 10px #00b3ff,
+		            0 0 20px #00b3ff,
+		            0 0 40px #00b3ff,
+		            0 0 80px #00b3ff,
+		            0 0 120px #00b3ff,
+		            0 0 130px #00b3ff,
+		            0 0 140px #00b3ff,
+		            0 0 150px #00b3ff,
+		            0 0 160px #00b3ff,
+		            0 0 200px #00b3ff,
+		            0 0 300px #00b3ff,
+		            0 0 400px #00b3ff,
+		            0 0 10px #00b3ff,
 		            0 0 20px #00b3ff,
 		            0 0 40px #00b3ff,
 		            0 0 80px #00b3ff,
@@ -134,5 +170,18 @@ body
 		            0 0 200px #00b3ff,
 		            0 0 300px #00b3ff,
 		            0 0 400px #00b3ff,
+		            0 0 10px #00b3ff,
+		            0 0 20px #00b3ff,
+		            0 0 40px #00b3ff,
+		            0 0 80px #00b3ff,
+		            0 0 120px #00b3ff,
+		            0 0 130px #00b3ff,
+		            0 0 140px #00b3ff,
+		            0 0 150px #00b3ff,
+		            0 0 160px #00b3ff,
+		            0 0 200px #00b3ff,
+		            0 0 300px #00b3ff,
+		            0 0 400px #00b3ff,
+
 	}
 }
